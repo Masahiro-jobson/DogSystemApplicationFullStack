@@ -20,6 +20,7 @@ Regarding API, I used postman to check a communication between java and react.
 It enables to try how codes works after inputs each data and how the result is when user inputs from the website.
 1. When I tried "POST" to the database<br/>
 <img width="625" alt="image" src="https://github.com/user-attachments/assets/072df322-230d-48c6-a2b6-ac3868668a78" />
+<br/>
 2. When I "GET" all datas from the database.<br/>
 <img width="1005" alt="image" src="https://github.com/user-attachments/assets/e90ae2fa-ad10-4cad-ae8e-a6fd2cee2fc5" />
 

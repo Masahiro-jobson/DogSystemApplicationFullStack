@@ -13,21 +13,21 @@ And, use those functions for the event handler(onChange) which happens when each
 <img width="157" alt="image" src="https://github.com/user-attachments/assets/b6193429-7a67-4b9b-9de5-dffaccb949ee" />
 
 For database, I used MySql with phpMyAdmin for managing in the local server.
-It allows to store datas (e.g, age, name, address, type) that user inputs.
+It allows to store datas (e.g, age, name, address, type) that user inputs.<br/>
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/bfdbd15a-bd4f-4ab5-b51d-8691a1540d88" />
 
 Regarding API, I used postman to check a communication between java and react.
 It enables to try how codes works after inputs each data and how the result is when user inputs from the website.
-1. When I tried "POST" to the database
+1. When I tried "POST" to the database<br/>
 <img width="625" alt="image" src="https://github.com/user-attachments/assets/072df322-230d-48c6-a2b6-ac3868668a78" />
-2. When I "GET" all datas from the database.
+2. When I "GET" all datas from the database.<br/>
 <img width="1005" alt="image" src="https://github.com/user-attachments/assets/e90ae2fa-ad10-4cad-ae8e-a6fd2cee2fc5" />
 
 Finally, the website outlook is the image below.
-1. User inputs view
+1. User inputs view<br/>
 <img width="1183" alt="image" src="https://github.com/user-attachments/assets/e1f62dcd-4a53-4a20-9bca-66dbe6e3103d" />
 
 
-2. User outputs view 
+2. User outputs view <br/>
 <img width="1166" alt="image" src="https://github.com/user-attachments/assets/9ec6e86a-37ea-4fb7-8c7e-fcffa7a35a07" />
 

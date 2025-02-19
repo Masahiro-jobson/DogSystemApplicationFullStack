@@ -24,7 +24,7 @@ It enables to try how codes works after inputs each data and how the result is w
 2. When I "GET" all datas from the database.<br/>
 <img width="1005" alt="image" src="https://github.com/user-attachments/assets/e90ae2fa-ad10-4cad-ae8e-a6fd2cee2fc5" />
 <br/>
-Finally, the website outlook is the image below.
+Finally, the website outlook is the image below.<br/>
 1. User inputs view<br/>
 <img width="1183" alt="image" src="https://github.com/user-attachments/assets/e1f62dcd-4a53-4a20-9bca-66dbe6e3103d" />
 <br/>

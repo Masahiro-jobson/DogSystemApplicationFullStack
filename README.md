@@ -9,7 +9,7 @@ To enable connection between Frontend and Backend side, I added @CrossOrigin in 
 Frontend code is written by React with Java Script.
 I used Material UI to visualize contents much better for users.
 I set useState for each values (age, name, address,type) and set functions for each value too.
-And, use those functions for the event handler(onChange) which happens when each text field is changed.
+And, use those functions for the event handler(onChange) which happens when each text field is changed.<br/>
 <img width="157" alt="image" src="https://github.com/user-attachments/assets/b6193429-7a67-4b9b-9de5-dffaccb949ee" />
 
 For database, I used MySql with phpMyAdmin for managing in the local server.
